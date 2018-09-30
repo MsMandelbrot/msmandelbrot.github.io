@@ -1,2 +1,2 @@
-# NovelCorpse.github.io
+# MsMandelbrot.github.io
 Host my personal resume.
